@@ -1,0 +1,37 @@
+body {
+  background-color: #ffffff;
+}
+
+section {
+  background-color: #0d1b2a;
+  display: flex;
+  width: 630px;
+  border-radius: 13px;
+  margin: 250px auto;
+  padding: 8px;
+  box-shadow: 1px 1px 8px 2px #02274f;
+}
+
+div {
+  background-color: rgb(195, 194, 193);
+  width: 160px;
+  height: 160px;
+  margin: 20px 10px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 1px 2px 0 2px #0b437e;
+}
+
+#horas {
+  margin-left: 30px;
+}
+
+p {
+  margin-top: 40px;
+  font: normal 70px Arial;
+}
+
+.ponto {
+  font-weight: bolder;
+  margin-top: 50px;
+}
